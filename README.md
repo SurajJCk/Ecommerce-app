@@ -34,4 +34,7 @@ Screenshots
 
 
 
+
 ![ecom5](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/20d703e7-7931-4ece-990f-4ff499a8d92e)
+
+![ecom6](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/19536097-0bb7-4471-93a1-4de274956534)
