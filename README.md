@@ -19,14 +19,19 @@ Technologies Used
     JavaScript
     
 Screenshots
-![ecomm](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/9e4c7e7b-e7a3-414e-8e9b-0ebc4a035d12)
-
-![ecom2](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/518129e7-7664-49a6-a8d7-dddbe4212b14)
+![ecom1](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/8a8a73a7-5dbf-419d-bf81-db10d2083de1)
 
 
-![ecom3](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/5fdb2f73-ac5e-42fa-baca-020819f3f966)
+
+![ecom2](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/2a69c8c4-c8f2-46ac-bc2f-fbdac6ba9304)
 
 
-![ecom4](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/454c8ec3-4823-4b2d-984b-57e3e7368fe0)
 
-![ecom5](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/6fcdefa6-3c58-4b0e-be16-d26da4d2d9b7)
+![ecom3](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/9f4e6ede-4893-4bb7-8a30-eed425871029)
+
+
+![ecom4](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/c6cc8969-1d5f-422b-baf6-42a0582e014e)
+
+
+
+![ecom5](https://github.com/SurajJCk/Ecommerce-app/assets/33105027/20d703e7-7931-4ece-990f-4ff499a8d92e)
